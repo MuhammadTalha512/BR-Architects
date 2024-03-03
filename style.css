@@ -1,0 +1,22 @@
+header{
+    z-index: 100;
+}
+#hero-section{
+    background-image: url(assets/images/architect.jpg);
+    min-height: 100vh;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: bottom center;
+
+}
+#br-text{
+padding: 8px 20px;
+background-color: rgba(0,0,0,0.5);
+letter-spacing: 2px;
+}
+a-text{
+
+}
+#About-section{
+filter:grayscale(70%);
+}
